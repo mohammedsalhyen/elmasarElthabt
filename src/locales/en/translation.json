@@ -1,0 +1,138 @@
+{
+  "navbar": {
+    "logo": "El Masar El Thabet",
+    "companyName": "El Masar El Thabet",
+    "items": {
+      "home": "Home",
+      "services": "Services",
+      "about": "About",
+      "projects": "Projects",
+      "partners": "Partners",
+      "contact": "Contact"
+    }
+  },
+  "hero": {
+    "since": "Since 2015",
+    "title": "Elevating buildings,",
+    "titleHighlight": "elevating lives",
+    "description": "We design and install elevator systems that combine reliability, safety, and modern design. Because your building deserves the best vertical transportation solutions.",
+    "getQuote": "Get a Quote",
+    "seeOurWork": "See Our Work",
+    "scroll": "Scroll Down",
+    "stats": {
+      "installations": "Installations",
+      "years": "Years",
+      "safety": "Safety"
+    }
+  },
+  "about": {
+    "label": "About El Masar El Thabet",
+    "title": "Your Trusted Partner in Vertical Transportation Solutions",
+    "companyName": "El Masar El Thabet",
+    "paragraph1": {
+      "before": "In a world witnessing rapid urban development and a growing demand for safe and intelligent vertical transportation solutions,",
+      "after": "has emerged as a distinguished provider of these solutions."
+    },
+    "paragraph2": "Our journey began in Sweden in 2015, where we gained extensive practical experience working with leading global companies such as KONE and Schindler. In 2019, we expanded into the Libyan market and established our headquarters in Libya, bringing with us European technology and international standards.",
+    "features": {
+      "technicians": "Licensed and Certified Technicians",
+      "components": "High-Quality Components",
+      "warranty": "Comprehensive Warranty",
+      "energyEfficient": "Energy-Efficient Solutions",
+      "customDesigns": "Custom Designs on Demand",
+      "rapidResponse": "Rapid Response"
+    },
+    "stats": {
+      "projects": "Completed Projects",
+      "clients": "Happy Clients",
+      "years": "Years of Experience",
+      "safety": "Safety Record"
+    }
+  },
+  "services": {
+    "label": "What We Offer",
+    "title": "Complete Elevator Solutions",
+    "description": "From installation to maintenance, we handle all your building's elevator needs.",
+    "items": {
+      "installation": {
+        "title": "Elevator Installation",
+        "description": "Complete elevator installation for residential, commercial, and industrial buildings."
+      },
+      "maintenance": {
+        "title": "Maintenance",
+        "description": "Regular maintenance programs to keep elevators operating efficiently and safely."
+      },
+      "modernization": {
+        "title": "Elevator Modernization",
+        "description": "Upgrade existing systems with the latest technologies to improve performance and efficiency."
+      },
+      "safetyAudits": {
+        "title": "Safety Inspections",
+        "description": "Comprehensive inspections and certification to ensure compliance with all safety standards."
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "24-hour emergency response, seven days a week, to address any elevator issue."
+      },
+      "consultation": {
+        "title": "Consultation",
+        "description": "Expert guidance and knowledge to help you choose the right solution for your building."
+      }
+    }
+  },
+  "projects": {
+    "label": "Our Work",
+    "title": "Featured Projects",
+    "description": "Showcasing our expertise and quality of work across the Libyan market.",
+    "error": "Unable to load projects. Please try again later.",
+    "imageView": "Image",
+    "otherTitle": "Other Featured Installations & Projects",
+    "otherDescription": "We deliver exceptional quality across various sectors and locations."
+  },
+  "partners": {
+    "label": "Our Partners",
+    "title": "Our Trusted Partners",
+    "description": "We work with industry leaders to deliver the best vertical transportation solutions.",
+    "visitWebsite": "Visit Website",
+    "logo": "Logo",
+    "error": "Unable to load partners. Please try again later."
+  },
+  "contact": {
+    "label": "Get in Touch",
+    "title": "Let's Discuss Your Project",
+    "description": "Ready to elevate your building? Contact us for a free consultation and quote.",
+    "info": {
+      "phone": "Phone",
+      "email": "Email",
+      "location": "Location",
+      "address": "Jawhara Tower, Benghazi, Libya"
+    },
+    "form": {
+      "title": "Send a Message",
+      "name": "Your Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "message": "How can we help you?",
+      "send": "Send Message"
+    },
+    "toast": {
+      "title": "Message Sent",
+      "description": "We'll get back to you soon."
+    },
+    "map": {
+      "title": "Visit Our Office",
+      "description": "Find us at Jawhara Tower in the heart of Benghazi.",
+      "iframeTitle": "Jawhara Tower Location"
+    },
+    "footer": {
+      "company": "El Masar El Thabet",
+      "rights": "All Rights Reserved."
+    }
+  },
+  "Home": "Home",
+  "Services": "Services",
+  "About": "About",
+  "Projects": "Projects",
+  "Partners": "Partners",
+  "Contact": "Contact"
+}

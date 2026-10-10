@@ -1,0 +1,138 @@
+{
+  "navbar": {
+    "logo": "埃尔马萨尔电梯公司",
+    "companyName": "埃尔马萨尔电梯公司",
+    "items": {
+      "home": "首页",
+      "services": "服务项目",
+      "about": "关于我们",
+      "projects": "项目案例",
+      "partners": "合作伙伴",
+      "contact": "联系我们"
+    }
+  },
+  "hero": {
+    "since": "始于2015年",
+    "title": "提升建筑品质，",
+    "titleHighlight": "提升生活质量",
+    "description": "我们设计并安装兼具可靠性、安全性与现代设计的电梯系统。因为您的建筑值得拥有最优质的垂直交通解决方案。",
+    "getQuote": "获取报价",
+    "seeOurWork": "查看我们的项目",
+    "scroll": "向下滚动",
+    "stats": {
+      "installations": "电梯安装",
+      "years": "年经验",
+      "safety": "安全保障"
+    }
+  },
+  "about": {
+    "label": "关于埃尔马萨尔电梯公司",
+    "title": "您值得信赖的垂直交通解决方案合作伙伴",
+    "companyName": "埃尔马萨尔电梯公司",
+    "paragraph1": {
+      "before": "随着城市建设的快速发展以及市场对安全、智能的垂直交通解决方案的需求不断增长，",
+      "after": "已成为该领域值得信赖的专业服务提供商。"
+    },
+    "paragraph2": "我们的发展历程始于2015年的瑞典。在那里，我们通过与迅达（Schindler）、通力（KONE）等全球领先企业合作，积累了丰富的实践经验。2019年，我们拓展至利比亚市场，并在当地设立总部，将欧洲技术与国际标准引入利比亚。",
+    "features": {
+      "technicians": "持证专业技术人员",
+      "components": "高品质零部件",
+      "warranty": "全面质量保修",
+      "energyEfficient": "节能解决方案",
+      "customDesigns": "定制化设计",
+      "rapidResponse": "快速响应服务"
+    },
+    "stats": {
+      "projects": "已完成项目",
+      "clients": "满意客户",
+      "years": "年行业经验",
+      "safety": "安全保障记录"
+    }
+  },
+  "services": {
+    "label": "我们的服务",
+    "title": "全面的电梯解决方案",
+    "description": "从电梯安装到日常维护，我们全面满足您建筑的电梯需求。",
+    "items": {
+      "installation": {
+        "title": "电梯安装",
+        "description": "为住宅、商业及工业建筑提供完整的电梯安装服务。"
+      },
+      "maintenance": {
+        "title": "维护保养",
+        "description": "提供定期维护计划，确保电梯高效、安全地运行。"
+      },
+      "modernization": {
+        "title": "电梯现代化改造",
+        "description": "采用最新技术升级现有电梯系统，提升运行性能与效率。"
+      },
+      "safetyAudits": {
+        "title": "安全检查",
+        "description": "提供全面的安全检查及认证服务，确保符合各项安全标准。"
+      },
+      "support": {
+        "title": "全天候技术支持",
+        "description": "每周七天、每天24小时提供紧急响应服务，及时解决各类电梯问题。"
+      },
+      "consultation": {
+        "title": "专业咨询",
+        "description": "提供专业建议与技术指导，帮助您为建筑选择合适的电梯解决方案。"
+      }
+    }
+  },
+  "projects": {
+    "label": "我们的项目",
+    "title": "精选项目案例",
+    "description": "展示我们在利比亚市场的专业实力与优质工程成果。",
+    "error": "无法加载项目，请稍后重试。",
+    "imageView": "图片",
+    "otherTitle": "其他精选安装工程与项目",
+    "otherDescription": "我们在不同领域和地区始终提供卓越的工程品质。"
+  },
+  "partners": {
+    "label": "合作伙伴",
+    "title": "值得信赖的合作伙伴",
+    "description": "我们与行业领先企业合作，共同提供优质的垂直交通解决方案。",
+    "visitWebsite": "访问网站",
+    "logo": "标志",
+    "error": "无法加载合作伙伴信息，请稍后重试。"
+  },
+  "contact": {
+    "label": "联系我们",
+    "title": "让我们探讨您的项目",
+    "description": "希望提升您的建筑品质？欢迎联系我们，获取免费咨询与报价。",
+    "info": {
+      "phone": "联系电话",
+      "email": "电子邮箱",
+      "location": "地址",
+      "address": "利比亚班加西市贾瓦赫拉大厦"
+    },
+    "form": {
+      "title": "发送消息",
+      "name": "您的姓名",
+      "email": "电子邮箱地址",
+      "phone": "电话号码",
+      "message": "请问我们能为您提供什么帮助？",
+      "send": "发送消息"
+    },
+    "toast": {
+      "title": "消息已发送",
+      "description": "我们会尽快与您联系。"
+    },
+    "map": {
+      "title": "访问我们的办公室",
+      "description": "我们的办公室位于班加西市中心的贾瓦赫拉大厦。",
+      "iframeTitle": "贾瓦赫拉大厦位置"
+    },
+    "footer": {
+      "company": "埃尔马萨尔电梯公司",
+      "rights": "版权所有。"
+    }
+  },
+  "Home": "首页",
+  "Services": "服务项目",
+  "About": "关于我们",
+  "Projects": "项目案例",
+  "Partners": "合作伙伴",
+  "Contact": "联系我们"
+}
