@@ -104,7 +104,7 @@
 
 @layer components {
   .elevator-section {
-    @apply min-h-screen w-full snap-start snap-always flex flex-col justify-center;
+    @apply min-h-screen w-full  flex flex-col justify-center;
   }
 
   .floor-indicator {
@@ -156,7 +156,7 @@
 
 @layer utilities {
   .snap-container {
-    scroll-snap-type: y proximity;
+    
     overflow-y: scroll;
     height: 100vh;
   }
